@@ -1,0 +1,221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\22.png",
+      "PackagePath": "staticwebassets\\assets\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\blog\\hero__base.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\hero__base.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\blog\\maarten-deckers.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\maarten-deckers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\book-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\book-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\box-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\box-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\chair-2-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\chair-2-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\chair3-3-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\chair3-3-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\clock-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\clock-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\clock2-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\clock2-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\shape-01.png",
+      "PackagePath": "staticwebassets\\assets\\shape-01.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\shape-02.png",
+      "PackagePath": "staticwebassets\\assets\\shape-02.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\shape-03.png",
+      "PackagePath": "staticwebassets\\assets\\shape-03.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\shape-04.png",
+      "PackagePath": "staticwebassets\\assets\\shape-04.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\shape.png",
+      "PackagePath": "staticwebassets\\assets\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\assets\\summer-shape.png",
+      "PackagePath": "staticwebassets\\assets\\summer-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\cart.js",
+      "PackagePath": "staticwebassets\\script\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\countdown.js",
+      "PackagePath": "staticwebassets\\script\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\drawer.js",
+      "PackagePath": "staticwebassets\\script\\drawer.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\dropdown.js",
+      "PackagePath": "staticwebassets\\script\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\index.js",
+      "PackagePath": "staticwebassets\\script\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\leaflet.js",
+      "PackagePath": "staticwebassets\\script\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\navbar.js",
+      "PackagePath": "staticwebassets\\script\\navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\parallax.js",
+      "PackagePath": "staticwebassets\\script\\parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\parallax.min.js",
+      "PackagePath": "staticwebassets\\script\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\script\\swiper.js",
+      "PackagePath": "staticwebassets\\script\\swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\about.css.map",
+      "PackagePath": "staticwebassets\\styles\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\about.scss",
+      "PackagePath": "staticwebassets\\styles\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\blog.css",
+      "PackagePath": "staticwebassets\\styles\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\blog.css.map",
+      "PackagePath": "staticwebassets\\styles\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\blog.scss",
+      "PackagePath": "staticwebassets\\styles\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\contact.css.map",
+      "PackagePath": "staticwebassets\\styles\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\contact.scss",
+      "PackagePath": "staticwebassets\\styles\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\drawer.css",
+      "PackagePath": "staticwebassets\\styles\\drawer.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\modal.css",
+      "PackagePath": "staticwebassets\\styles\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\modal.css.map",
+      "PackagePath": "staticwebassets\\styles\\modal.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\modal.scss",
+      "PackagePath": "staticwebassets\\styles\\modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\style.css.map",
+      "PackagePath": "staticwebassets\\styles\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\style.scss",
+      "PackagePath": "staticwebassets\\styles\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\swiper.css",
+      "PackagePath": "staticwebassets\\styles\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\swiper.css.map",
+      "PackagePath": "staticwebassets\\styles\\swiper.css.map"
+    },
+    {
+      "Id": "C:\\Users\\xeyru\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\styles\\swiper.scss",
+      "PackagePath": "staticwebassets\\styles\\swiper.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
